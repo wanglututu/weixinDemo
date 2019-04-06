@@ -8,7 +8,7 @@
 # 注意
 关闭windows数据保护DEP（dep可能会导致不安全代码闪退）：<br/>
 新机器只需要首次进入cmd，输入 bcdedit.exe/set {current} nx AlwaysOff，重启电脑<br/>
-如果不会c#的小伙伴可以移步至：https://github.com/weixinbao/WebApi， 这个项目使用websocket+api即可调用，跨平台、跨语言
+如果不会c#的小伙伴可以移步至：https://github.com/weixinbao/WebApi ，这个项目使用websocket+api即可调用，跨平台、跨语言
 # 奖励计划
 每多10个star，则随机赠送1人协议租用！
 # 声明
